@@ -1,3 +1,0 @@
-insert file data 
-hello there
-kindly take ur seats
